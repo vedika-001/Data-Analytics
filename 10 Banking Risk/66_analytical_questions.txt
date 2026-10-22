@@ -1,0 +1,72 @@
+BANKING RISK ANALYST PROJECT — 66 ANALYTICAL QUESTIONS
+
+Q1-Q11: Data understanding and cleaning
+Q12-Q20: Customer analysis
+Q21-Q40: Credit and loan risk
+Q41-Q49: Repayment and delinquency
+Q50-Q58: Transaction and fraud risk
+Q59-Q66: Advanced risk analytics and business recommendations
+
+Q1. Load all five raw files and identify the grain (one row represents what?) of each table.
+Q2. Count rows, columns, unique IDs, and duplicate rows in every table.
+Q3. Profile missing values by column and calculate missing-value percentages.
+Q4. Identify columns containing inconsistent capitalization, leading/trailing spaces, or multiple labels for the same category.
+Q5. Find invalid numeric values such as negative income, impossible credit scores, negative transaction amounts, and invalid interest rates.
+Q6. Check date columns for future dates, impossible sequences, and inconsistent date formats.
+Q7. Check primary-key uniqueness for customers, loans, repayments, transactions, and branches.
+Q8. Find orphan customer IDs in the loan and transaction tables and orphan loan IDs in the repayment table.
+Q9. Standardize categorical values and document every transformation you made.
+Q10. Create cleaned versions of all five datasets without deleting raw files.
+Q11. Create a data-quality report showing completeness, uniqueness, validity, consistency, and referential integrity for each table.
+Q12. Calculate the number and percentage of customers in each customer segment.
+Q13. Calculate average, median, minimum, maximum, and standard deviation of annual income by customer segment.
+Q14. Analyze the distribution of customer credit scores and identify the percentage below 600, 650, 700, and 750.
+Q15. Which cities have the highest number of customers and what percentage of the total do they represent?
+Q16. Compare average income and credit score across employment statuses.
+Q17. Calculate the average debt-to-income ratio by customer segment and employment status.
+Q18. How many customers have failed, pending, or expired KYC status?
+Q19. Identify customer groups with high debt-to-income ratio and low credit score.
+Q20. Analyze customer tenure using account_open_date and find the oldest and newest customer cohorts.
+Q21. Calculate total loan exposure by loan product.
+Q22. Calculate average loan amount, interest rate, and tenure for each loan product.
+Q23. Which loan products have the highest proportion of Default and Written Off loans?
+Q24. Calculate default rate by risk band.
+Q25. Calculate default rate by customer segment.
+Q26. Calculate default rate by employment status and industry.
+Q27. Calculate default rate by city and state.
+Q28. Calculate total outstanding loan exposure for Active loans.
+Q29. Calculate total exposure for Default, Written Off, and Restructured loans.
+Q30. Calculate collateral coverage ratio by loan product.
+Q31. Identify loans where collateral value is lower than the loan amount.
+Q32. Analyze whether credit score has a relationship with loan risk band.
+Q33. Analyze whether debt-to-income ratio is associated with loan default.
+Q34. Compare default rates for loans above and below the median loan amount.
+Q35. Compare default rates by interest-rate bands.
+Q36. Analyze loan approvals by branch and identify branches with unusually high default rates.
+Q37. Calculate average days between application, sanction, and disbursement.
+Q38. Identify branches with the highest loan volume but also high default exposure.
+Q39. Build a branch-level risk score using loan volume, default rate, exposure, and average credit score.
+Q40. Calculate total scheduled repayment amount and total paid amount.
+Q41. Calculate collection efficiency as paid amount divided by scheduled amount.
+Q42. Calculate delinquency rate using repayment records.
+Q43. Calculate average days past due by loan product and risk band.
+Q44. Identify customers with repeated late or delinquent repayments.
+Q45. Find loans where paid amount is consistently below scheduled amount.
+Q46. Analyze delinquency by collection channel.
+Q47. Create repayment aging buckets: 0, 1-7, 8-30, 31-60, 61-90, and 90+ days past due.
+Q48. Calculate monthly transaction volume and transaction value.
+Q49. Compare transaction behavior across channels and payment modes.
+Q50. Identify the top merchant categories by transaction value and volume.
+Q51. Calculate average transaction value by customer segment.
+Q52. Compare international versus domestic transaction behavior.
+Q53. Calculate fraud rate by channel, payment mode, and merchant category.
+Q54. Identify high-risk transaction patterns using fraud score, amount, international flag, and channel.
+Q55. Find customers with unusually high transaction values relative to their estimated annual income.
+Q56. Identify customers with both high loan risk and high transaction fraud risk.
+Q57. Build a customer-level risk profile combining credit score, debt-to-income ratio, loan defaults, repayment delinquency, and fraud activity.
+Q58. Rank the top 100 customers by overall financial risk using a transparent scoring methodology.
+Q59. Calculate expected loss using probability-of-default assumptions by risk band and loan exposure.
+Q60. Estimate portfolio concentration risk by product, geography, branch, and customer segment.
+Q61. Perform a cohort analysis of loans by disbursement year and compare default performance over time.
+Q62. Build a monthly risk dashboard showing loan exposure, default rate, delinquency rate, collection efficiency, fraud rate, and high-risk customer count.
+Q63. Write five business recommendations for the bank based on the strongest risk patterns you discover.
