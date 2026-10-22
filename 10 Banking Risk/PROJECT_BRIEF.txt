@@ -1,0 +1,16 @@
+BANKING RISK ANALYST — PROJECT BRIEF
+
+Scenario:
+You are a Data Analyst in the Risk Analytics team of a retail bank. Management wants to understand credit risk, repayment behavior, transaction risk, fraud exposure and portfolio concentration.
+
+Deliverables:
+1. Data-quality assessment
+2. Clean analytical tables
+3. SQL analysis
+4. Python/Pandas analysis
+5. Power BI/Tableau dashboard
+6. Answers to all 66 questions
+7. Executive summary with business recommendations
+
+Professional expectation:
+Do not simply calculate numbers. State the business question, define the metric, validate the data, calculate the result, explain the insight, and recommend an action.

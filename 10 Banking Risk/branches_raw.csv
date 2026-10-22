@@ -1,0 +1,251 @@
+branch_id,branch_name,city,state,branch_type,opened_date,risk_region
+BR0001,Branch 001,Ahmedabad,Gujarat,Retail,2007-06-14,South
+BR0002,Branch 002,Bhopal,Madhya Pradesh,Retail,2008-10-16,North
+BR0003,Branch 003,Chennai,Tamil Nadu,Digital Hub,2010-05-13,West
+BR0004,Branch 004,Gurugram,Haryana,Retail,2013-05-31,North
+BR0005,Branch 005,Surat,Gujarat,Retail,2022-11-18,West
+BR0006,Branch 006,Ahmedabad,Gujarat,Retail,2010-06-20,East
+BR0007,Branch 007,Lucknow,Uttar Pradesh,Retail,2022-10-10,West
+BR0008,Branch 008,Gurugram,Haryana,Retail,2016-09-25,South
+BR0009,Branch 009,Gurugram,Haryana,Regional,2006-05-20,East
+BR0010,Branch 010,Navi Mumbai,Maharashtra,Regional,2008-04-29,North
+BR0011,Branch 011,Surat,Gujarat,Retail,2009-03-12,East
+BR0012,Branch 012,Thane,Maharashtra,Retail,2014-06-03,West
+BR0013,Branch 013,Pune,Maharashtra,Retail,2007-04-04,South
+BR0014,Branch 014,Noida,Uttar Pradesh,Retail,2007-07-18,North
+BR0015,Branch 015,Nashik,Maharashtra,Retail,2018-10-09,South
+BR0016,Branch 016,Pune,Maharashtra,Retail,2019-05-04,West
+BR0017,Branch 017,Mumbai,Maharashtra,Digital Hub,2005-05-14,West
+BR0018,Branch 018,Noida,Uttar Pradesh,Retail,2010-10-07,West
+BR0019,Branch 019,Noida,Uttar Pradesh,Corporate,2014-12-07,South
+BR0020,Branch 020,Jaipur,Rajasthan,Retail,2018-02-02,South
+BR0021,Branch 021,Delhi,Delhi,Retail,2023-08-30,South
+BR0022,Branch 022,Kolkata,West Bengal,Retail,2022-04-18,West
+BR0023,Branch 023,Chennai,Tamil Nadu,Regional,2010-01-27,East
+BR0024,Branch 024,Chennai,Tamil Nadu,Corporate,2018-06-12,North
+BR0025,Branch 025,Lucknow,Uttar Pradesh,Retail,2019-06-05,North
+BR0026,Branch 026,Noida,Uttar Pradesh,Retail,2016-06-07,West
+BR0027,Branch 027,Bhopal,Madhya Pradesh,Retail,2013-01-12,South
+BR0028,Branch 028,Thane,Maharashtra,Regional,2013-12-29,West
+BR0029,Branch 029,Nagpur,Maharashtra,Retail,2016-10-08,South
+BR0030,Branch 030,Lucknow,Uttar Pradesh,Digital Hub,2012-09-12,South
+BR0031,Branch 031,Ahmedabad,Gujarat,Retail,2019-08-24,West
+BR0032,Branch 032,Vadodara,Gujarat,Retail,2020-11-13,North
+BR0033,Branch 033,Ahmedabad,Gujarat,Corporate,2008-06-04,West
+BR0034,Branch 034,Indore,Madhya Pradesh,Regional,2020-10-27,West
+BR0035,Branch 035,Navi Mumbai,Maharashtra,Digital Hub,2020-06-22,North
+BR0036,Branch 036,Hyderabad,Telangana,Retail,2014-08-14,North
+BR0037,Branch 037,Indore,Madhya Pradesh,Retail,2021-12-13,South
+BR0038,Branch 038,Vadodara,Gujarat,Retail,2008-06-10,North
+BR0039,Branch 039,Pune,Maharashtra,Digital Hub,2014-03-31,South
+BR0040,Branch 040,Bhopal,Madhya Pradesh,Retail,2020-06-16,South
+BR0041,Branch 041,Chennai,Tamil Nadu,Retail,2019-05-30,South
+BR0042,Branch 042,Ahmedabad,Gujarat,Retail,2014-07-19,South
+BR0043,Branch 043,Noida,Uttar Pradesh,Retail,2014-10-25,South
+BR0044,Branch 044,Surat,Gujarat,Retail,2008-10-28,North
+BR0045,Branch 045,Chennai,Tamil Nadu,Retail,2014-12-17,West
+BR0046,Branch 046,Thane,Maharashtra,Retail,2014-02-13,East
+BR0047,Branch 047,Hyderabad,Telangana,Regional,2012-05-27,South
+BR0048,Branch 048,Jaipur,Rajasthan,Corporate,2006-04-16,West
+BR0049,Branch 049,Navi Mumbai,Maharashtra,Retail,2019-01-19,North
+BR0050,Branch 050,Indore,Madhya Pradesh,Retail,2008-09-15,West
+BR0051,Branch 051,Surat,Gujarat,Regional,2012-08-15,East
+BR0052,Branch 052,Navi Mumbai,Maharashtra,Retail,2012-10-02,West
+BR0053,Branch 053,Pune,Maharashtra,Retail,2018-11-12,West
+BR0054,Branch 054,Nashik,Maharashtra,Retail,2005-12-24,North
+BR0055,Branch 055,Delhi,Delhi,Retail,2013-04-08,North
+BR0056,Branch 056,Navi Mumbai,Maharashtra,Regional,2006-10-30,East
+BR0057,Branch 057,Indore,Madhya Pradesh,Retail,2017-03-27,West
+BR0058,Branch 058,Noida,Uttar Pradesh,Regional,2019-01-15,South
+BR0059,Branch 059,Pune,Maharashtra,Retail,2008-02-20,West
+BR0060,Branch 060,Delhi,Delhi,Retail,2019-12-21,South
+BR0061,Branch 061,Navi Mumbai,Maharashtra,Retail,2023-09-03,West
+BR0062,Branch 062,Hyderabad,Telangana,Retail,2016-06-17,West
+BR0063,Branch 063,Kolkata,West Bengal,Retail,2015-03-09,South
+BR0064,Branch 064,Chennai,Tamil Nadu,Retail,2012-07-08,East
+BR0065,Branch 065,Surat,Gujarat,Retail,2006-06-24,East
+BR0066,Branch 066,Hyderabad,Telangana,Retail,2012-08-11,South
+BR0067,Branch 067,Surat,Gujarat,Retail,2018-08-05,East
+BR0068,Branch 068,Kolkata,West Bengal,Retail,2016-04-29,West
+BR0069,Branch 069,Bengaluru,Karnataka,Retail,2018-03-29,East
+BR0070,Branch 070,Indore,Madhya Pradesh,Retail,2015-05-04,North
+BR0071,Branch 071,Chennai,Tamil Nadu,Corporate,2021-07-18,South
+BR0072,Branch 072,Bengaluru,Karnataka,Retail,2023-03-13,South
+BR0073,Branch 073,Vadodara,Gujarat,Retail,2019-07-27,South
+BR0074,Branch 074,Chennai,Tamil Nadu,Retail,2018-10-04,North
+BR0075,Branch 075,Bengaluru,Karnataka,Regional,2021-10-16,North
+BR0076,Branch 076,Mumbai,Maharashtra,Retail,2011-11-14,South
+BR0077,Branch 077,Ahmedabad,Gujarat,Retail,2012-08-11,West
+BR0078,Branch 078,Vadodara,Gujarat,Digital Hub,2023-11-18,East
+BR0079,Branch 079,Mumbai,Maharashtra,Regional,2007-07-14,South
+BR0080,Branch 080,Noida,Uttar Pradesh,Corporate,2013-02-04,West
+BR0081,Branch 081,Surat,Gujarat,Retail,2009-05-01,South
+BR0082,Branch 082,Gurugram,Haryana,Retail,2014-02-07,North
+BR0083,Branch 083,Lucknow,Uttar Pradesh,Retail,2017-04-13,South
+BR0084,Branch 084,Jaipur,Rajasthan,Retail,2020-08-23,South
+BR0085,Branch 085,Surat,Gujarat,Retail,2005-09-13,West
+BR0086,Branch 086,Thane,Maharashtra,Regional,2018-02-26,North
+BR0087,Branch 087,Thane,Maharashtra,Retail,2010-01-13,East
+BR0088,Branch 088,Mumbai,Maharashtra,Digital Hub,2010-04-29,West
+BR0089,Branch 089,Nagpur,Maharashtra,Retail,2023-01-20,South
+BR0090,Branch 090,Delhi,Delhi,Regional,2005-01-10,North
+BR0091,Branch 091,Ahmedabad,Gujarat,Retail,2012-11-11,North
+BR0092,Branch 092,Vadodara,Gujarat,Retail,2007-03-09,North
+BR0093,Branch 093,Ahmedabad,Gujarat,Regional,2018-08-13,North
+BR0094,Branch 094,Vadodara,Gujarat,Retail,2019-01-12,West
+BR0095,Branch 095,Surat,Gujarat,Retail,2007-10-13,South
+BR0096,Branch 096,Noida,Uttar Pradesh,Digital Hub,2009-12-30,West
+BR0097,Branch 097,Pune,Maharashtra,Regional,2017-03-28,West
+BR0098,Branch 098,Mumbai,Maharashtra,Retail,2013-08-03,West
+BR0099,Branch 099,Kolkata,West Bengal,Retail,2011-01-03,West
+BR0100,Branch 100,Nagpur,Maharashtra,Retail,2005-08-12,North
+BR0101,Branch 101,Thane,Maharashtra,Regional,2019-09-03,South
+BR0102,Branch 102,Noida,Uttar Pradesh,Retail,2022-04-22,South
+BR0103,Branch 103,Surat,Gujarat,Retail,2021-02-24,West
+BR0104,Branch 104,Thane,Maharashtra,Retail,2018-07-20,East
+BR0105,Branch 105,Mumbai,Maharashtra,Retail,2016-05-21,South
+BR0106,Branch 106,Thane,Maharashtra,Regional,2019-08-12,North
+BR0107,Branch 107,Nagpur,Maharashtra,Retail,2015-10-01,East
+BR0108,Branch 108,Chennai,Tamil Nadu,Corporate,2023-12-31,East
+BR0109,Branch 109,Hyderabad,Telangana,Retail,2018-02-06,West
+BR0110,Branch 110,Thane,Maharashtra,Retail,2020-04-12,North
+BR0111,Branch 111,Mumbai,Maharashtra,Retail,2015-12-15,East
+BR0112,Branch 112,Nagpur,Maharashtra,Retail,2009-06-22,South
+BR0113,Branch 113,Hyderabad,Telangana,Corporate,2010-11-23,West
+BR0114,Branch 114,Ahmedabad,Gujarat,Retail,2006-05-26,South
+BR0115,Branch 115,Vadodara,Gujarat,Retail,2006-01-20,South
+BR0116,Branch 116,Chennai,Tamil Nadu,Regional,2006-02-09,South
+BR0117,Branch 117,Chennai,Tamil Nadu,Retail,2017-08-19,South
+BR0118,Branch 118,Delhi,Delhi,Regional,2017-07-08,South
+BR0119,Branch 119,Bengaluru,Karnataka,Retail,2010-06-24,West
+BR0120,Branch 120,Lucknow,Uttar Pradesh,Retail,2012-07-19,West
+BR0121,Branch 121,Ahmedabad,Gujarat,Retail,2009-07-27,South
+BR0122,Branch 122,Jaipur,Rajasthan,Retail,2021-05-26,East
+BR0123,Branch 123,Bhopal,Madhya Pradesh,Retail,2023-12-07,West
+BR0124,Branch 124,Navi Mumbai,Maharashtra,Retail,2008-12-31,South
+BR0125,Branch 125,Nagpur,Maharashtra,Retail,2014-12-16,South
+BR0126,Branch 126,Ahmedabad,Gujarat,Retail,2012-06-17,North
+BR0127,Branch 127,Bengaluru,Karnataka,Digital Hub,2018-03-03,South
+BR0128,Branch 128,Chennai,Tamil Nadu,Retail,2016-06-10,East
+BR0129,Branch 129,Gurugram,Haryana,Retail,2019-06-01,South
+BR0130,Branch 130,Navi Mumbai,Maharashtra,Regional,2023-01-27,North
+BR0131,Branch 131,Bengaluru,Karnataka,Regional,2021-06-03,North
+BR0132,Branch 132,Ahmedabad,Gujarat,Retail,2010-08-11,South
+BR0133,Branch 133,Lucknow,Uttar Pradesh,Retail,2016-05-09,North
+BR0134,Branch 134,Pune,Maharashtra,Retail,2018-02-02,North
+BR0135,Branch 135,Delhi,Delhi,Retail,2006-12-18,North
+BR0136,Branch 136,Bengaluru,Karnataka,Corporate,2020-03-28,West
+BR0137,Branch 137,Nashik,Maharashtra,Corporate,2017-06-11,West
+BR0138,Branch 138,Noida,Uttar Pradesh,Retail,2018-08-17,North
+BR0139,Branch 139,Noida,Uttar Pradesh,Retail,2017-07-20,North
+BR0140,Branch 140,Bhopal,Madhya Pradesh,Corporate,2009-12-29,West
+BR0141,Branch 141,Gurugram,Haryana,Retail,2010-09-13,South
+BR0142,Branch 142,Ahmedabad,Gujarat,Retail,2014-05-13,South
+BR0143,Branch 143,Mumbai,Maharashtra,Regional,2022-01-30,West
+BR0144,Branch 144,Mumbai,Maharashtra,Retail,2009-04-24,East
+BR0145,Branch 145,Bhopal,Madhya Pradesh,Corporate,2022-03-30,North
+BR0146,Branch 146,Bengaluru,Karnataka,Corporate,2005-09-07,South
+BR0147,Branch 147,Vadodara,Gujarat,Corporate,2006-11-05,South
+BR0148,Branch 148,Thane,Maharashtra,Retail,2017-05-31,East
+BR0149,Branch 149,Ahmedabad,Gujarat,Regional,2010-12-06,South
+BR0150,Branch 150,Nashik,Maharashtra,Regional,2007-02-10,South
+BR0151,Branch 151,Surat,Gujarat,Retail,2015-11-07,South
+BR0152,Branch 152,Vadodara,Gujarat,Retail,2016-12-12,West
+BR0153,Branch 153,Nagpur,Maharashtra,Regional,2010-06-08,West
+BR0154,Branch 154,Mumbai,Maharashtra,Regional,2007-12-14,South
+BR0155,Branch 155,Lucknow,Uttar Pradesh,Retail,2005-08-24,North
+BR0156,Branch 156,Delhi,Delhi,Regional,2006-01-24,South
+BR0157,Branch 157,Noida,Uttar Pradesh,Regional,2013-04-26,West
+BR0158,Branch 158,Chennai,Tamil Nadu,Retail,2018-04-21,North
+BR0159,Branch 159,Vadodara,Gujarat,Retail,2010-01-23,North
+BR0160,Branch 160,Bhopal,Madhya Pradesh,Retail,2022-12-02,North
+BR0161,Branch 161,Jaipur,Rajasthan,Retail,2017-12-03,South
+BR0162,Branch 162,Jaipur,Rajasthan,Retail,2012-09-15,North
+BR0163,Branch 163,Bhopal,Madhya Pradesh,Retail,2014-03-29,North
+BR0164,Branch 164,Noida,Uttar Pradesh,Retail,2013-12-23,North
+BR0165,Branch 165,Ahmedabad,Gujarat,Regional,2008-06-06,North
+BR0166,Branch 166,Pune,Maharashtra,Retail,2015-11-26,South
+BR0167,Branch 167,Thane,Maharashtra,Regional,2017-10-18,West
+BR0168,Branch 168,Jaipur,Rajasthan,Retail,2010-10-24,South
+BR0169,Branch 169,Nagpur,Maharashtra,Retail,2017-05-28,South
+BR0170,Branch 170,Jaipur,Rajasthan,Retail,2010-11-21,South
+BR0171,Branch 171,Jaipur,Rajasthan,Regional,2018-04-22,South
+BR0172,Branch 172,Jaipur,Rajasthan,Retail,2023-11-04,South
+BR0173,Branch 173,Pune,Maharashtra,Corporate,2008-08-22,East
+BR0174,Branch 174,Pune,Maharashtra,Retail,2022-02-02,West
+BR0175,Branch 175,Nagpur,Maharashtra,Retail,2008-09-20,West
+BR0176,Branch 176,Mumbai,Maharashtra,Digital Hub,2011-10-19,North
+BR0177,Branch 177,Mumbai,Maharashtra,Retail,2017-06-09,West
+BR0178,Branch 178,Lucknow,Uttar Pradesh,Retail,2010-07-11,South
+BR0179,Branch 179,Pune,Maharashtra,Retail,2008-08-24,East
+BR0180,Branch 180,Noida,Uttar Pradesh,Retail,2016-11-23,West
+BR0181,Branch 181,Nashik,Maharashtra,Regional,2016-09-01,West
+BR0182,Branch 182,Navi Mumbai,Maharashtra,Retail,2008-09-20,West
+BR0183,Branch 183,Gurugram,Haryana,Retail,2019-01-03,South
+BR0184,Branch 184,Jaipur,Rajasthan,Retail,2017-09-12,South
+BR0185,Branch 185,Nashik,Maharashtra,Corporate,2018-04-17,West
+BR0186,Branch 186,Nagpur,Maharashtra,Retail,2013-09-13,East
+BR0187,Branch 187,Bhopal,Madhya Pradesh,Retail,2010-10-30,South
+BR0188,Branch 188,Pune,Maharashtra,Regional,2010-12-21,West
+BR0189,Branch 189,Nashik,Maharashtra,Regional,2018-05-25,South
+BR0190,Branch 190,Gurugram,Haryana,Retail,2005-05-18,South
+BR0191,Branch 191,Kolkata,West Bengal,Retail,2022-04-29,North
+BR0192,Branch 192,Kolkata,West Bengal,Retail,2014-07-05,West
+BR0193,Branch 193,Mumbai,Maharashtra,Retail,2019-12-03,West
+BR0194,Branch 194,Vadodara,Gujarat,Retail,2012-10-03,West
+BR0195,Branch 195,Nashik,Maharashtra,Retail,2014-10-20,South
+BR0196,Branch 196,Kolkata,West Bengal,Retail,2021-05-08,East
+BR0197,Branch 197,Thane,Maharashtra,Retail,2013-04-20,West
+BR0198,Branch 198,Bhopal,Madhya Pradesh,Digital Hub,2016-05-27,West
+BR0199,Branch 199,Navi Mumbai,Maharashtra,Regional,2012-02-07,West
+BR0200,Branch 200,Lucknow,Uttar Pradesh,Retail,2021-12-19,West
+BR0201,Branch 201,Thane,Maharashtra,Digital Hub,2020-04-01,South
+BR0202,Branch 202,Lucknow,Uttar Pradesh,Regional,2016-10-10,West
+BR0203,Branch 203,Bhopal,Madhya Pradesh,Retail,2022-03-02,West
+BR0204,Branch 204,Ahmedabad,Gujarat,Retail,2015-06-16,West
+BR0205,Branch 205,Bhopal,Madhya Pradesh,Retail,2016-05-01,South
+BR0206,Branch 206,Vadodara,Gujarat,Retail,2015-06-21,North
+BR0207,Branch 207,Mumbai,Maharashtra,Retail,2016-01-26,South
+BR0208,Branch 208,Surat,Gujarat,Retail,2010-03-22,West
+BR0209,Branch 209,Ahmedabad,Gujarat,Retail,2022-02-15,South
+BR0210,Branch 210,Indore,Madhya Pradesh,Corporate,2007-01-31,South
+BR0211,Branch 211,Surat,Gujarat,Regional,2022-01-30,West
+BR0212,Branch 212,Mumbai,Maharashtra,Retail,2021-09-04,North
+BR0213,Branch 213,Gurugram,Haryana,Corporate,2014-06-08,East
+BR0214,Branch 214,Indore,Madhya Pradesh,Digital Hub,2021-07-07,East
+BR0215,Branch 215,Delhi,Delhi,Digital Hub,2007-06-19,North
+BR0216,Branch 216,Thane,Maharashtra,Retail,2017-03-14,North
+BR0217,Branch 217,Ahmedabad,Gujarat,Regional,2013-01-26,East
+BR0218,Branch 218,Kolkata,West Bengal,Retail,2009-09-16,South
+BR0219,Branch 219,Kolkata,West Bengal,Regional,2005-10-08,West
+BR0220,Branch 220,Bhopal,Madhya Pradesh,Digital Hub,2013-12-11,East
+BR0221,Branch 221,Jaipur,Rajasthan,Regional,2010-03-03,West
+BR0222,Branch 222,Pune,Maharashtra,Regional,2013-12-11,South
+BR0223,Branch 223,Mumbai,Maharashtra,Corporate,2006-10-29,West
+BR0224,Branch 224,Kolkata,West Bengal,Regional,2016-06-20,West
+BR0225,Branch 225,Noida,Uttar Pradesh,Retail,2006-11-03,West
+BR0226,Branch 226,Nagpur,Maharashtra,Retail,2010-05-24,South
+BR0227,Branch 227,Nagpur,Maharashtra,Retail,2016-05-19,West
+BR0228,Branch 228,Vadodara,Gujarat,Corporate,2023-07-23,West
+BR0229,Branch 229,Vadodara,Gujarat,Retail,2013-07-20,West
+BR0230,Branch 230,Thane,Maharashtra,Retail,2019-01-12,North
+BR0231,Branch 231,Lucknow,Uttar Pradesh,Retail,2020-04-17,East
+BR0232,Branch 232,Kolkata,West Bengal,Retail,2017-11-13,North
+BR0233,Branch 233,Kolkata,West Bengal,Corporate,2018-01-30,South
+BR0234,Branch 234,Thane,Maharashtra,Corporate,2015-09-06,East
+BR0235,Branch 235,Bhopal,Madhya Pradesh,Retail,2023-04-14,North
+BR0236,Branch 236,Mumbai,Maharashtra,Corporate,2020-02-16,West
+BR0237,Branch 237,Bhopal,Madhya Pradesh,Retail,2023-08-03,West
+BR0238,Branch 238,Gurugram,Haryana,Retail,2022-06-17,West
+BR0239,Branch 239,Jaipur,Rajasthan,Regional,2006-06-08,North
+BR0240,Branch 240,Surat,Gujarat,Retail,2011-07-22,North
+BR0241,Branch 241,Navi Mumbai,Maharashtra,Retail,2013-07-15,South
+BR0242,Branch 242,Nashik,Maharashtra,Regional,2012-02-07,West
+BR0243,Branch 243,Surat,Gujarat,Retail,2010-05-23,North
+BR0244,Branch 244,Bhopal,Madhya Pradesh,Retail,2019-03-26,South
+BR0245,Branch 245,Thane,Maharashtra,Retail,2009-10-20,North
+BR0246,Branch 246,Kolkata,West Bengal,Retail,2021-03-30,South
+BR0247,Branch 247,Thane,Maharashtra,Retail,2023-12-30,South
+BR0248,Branch 248,Indore,Madhya Pradesh,Retail,2011-04-16,West
+BR0249,Branch 249,Hyderabad,Telangana,Regional,2021-12-13,South
+BR0250,Branch 250,Indore,Madhya Pradesh,Regional,2019-05-08,North

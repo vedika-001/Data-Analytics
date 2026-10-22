@@ -1,0 +1,6 @@
+file,rows,columns
+branches_raw.csv,250,7
+customers_raw.csv,100250,16
+loans_raw.csv,120350,14
+repayments_raw.csv,180500,10
+transactions_raw.csv,300800,14
